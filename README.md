@@ -12,8 +12,9 @@ Feel free to mess around with it and let me know if you have any issues I will t
 
 BAT is kind of weird were if you search for a model say 300e, it will take you to an entirely different page than if you search a body like w124 so I'm actively trying to make sure that both work as intended. Also I will probably try to change the calculation method since it makes no sense for the graph to act like a polynomial and raise in price after some point. 
 
-
 Here is an example of it running for a Mercedes 300e with 50,000 miles:
 
 ![alt text](images/terminal.png)
 ![alt text](images/Figure_1.png)
+
+*legally I hold no responsibility for anything happening to you including but not limitted to BAT deciding to ban your ip. They shouldn't because i was testing for hours and nothing happend to me but just incase*
