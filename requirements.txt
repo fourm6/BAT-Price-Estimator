@@ -1,3 +1,4 @@
-scikit-learn
-matplotlib
-playwright
+matplotlib==3.10.8
+numpy==2.4.2
+playwright==1.58.0
+scikit_learn==1.8.0
